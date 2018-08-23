@@ -1,0 +1,20 @@
+[
+	{
+		"type":0, 
+		"question":"What is 6+6?",
+		"correctAnswer":2,
+		"answers":
+			[
+				"18", 
+				"15",
+				"12",
+				"11"
+			]
+	},
+	{"type":0, "question":"What is 2+2", "correctAnswer":3, "answers":["8", "2", "3", "4"]},
+	{"type":0, "question":"What is 5+5", "correctAnswer":0, "answers":["10", "Banana", "Yes", "85"]}	
+	{"type":0, "question":"Abraham Lincoln was the __ President", "correctAnswer":1, "answers":["14th", "16th", "18th", "8th"]}
+	{"type":1, "question":"How many anteaters?", "default-input":"stuff"}
+
+
+]
